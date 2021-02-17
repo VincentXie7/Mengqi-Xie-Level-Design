@@ -1,0 +1,4 @@
+idevent	speaker	text	nextevent	LastEventInSequence	imageAsset	audioAsset
+0	Player	Let's collect some delicious cubes	1	N	PlayerDialogueImage	randomsound1	$%
+1	Player	Speed Up! Run Up!	2	Y	PlayerDialogueImageMove	randomsound2	$%
+2	Player	The speed is dangerous right?	-1	Y	PlayerDialogueImageTired	randomsound3	$%
